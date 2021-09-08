@@ -9,6 +9,7 @@ using MyMicroservice.Models;
 
 namespace MyMicroservice.Controllers
 {
+    //Add annotations to make open api documentation rich
     [Produces("application/json", "application/xml")]
     [Consumes("application/json")]
     [Route("api/TodoItems")]
