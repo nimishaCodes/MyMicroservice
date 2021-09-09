@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 //comments 123 45
+//this is fixing ui stuff
 namespace MyMicroservice
 {
     public class Program
